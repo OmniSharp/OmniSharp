@@ -1,5 +1,7 @@
 # OmniSharp
-OmniSharp Organization repo for discussions, global communication, etc.
+OmniSharp Organization repo for project coordination, global communication and other **organizational** topics.
+
+*Please do not use this repo to open bugs/support issues - use the [project repository](https://github.com/OmniSharp) relevant to the product you are using (e.g. C# Extension for VS Code, VIM plugin, Emacs plugin, OmniSharp server and so on) instead.*
 
 ## License
 
